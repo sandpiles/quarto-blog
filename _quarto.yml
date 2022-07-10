@@ -10,6 +10,18 @@ website:
         href: https://github.com/
       - icon: twitter
         href: https://twitter.com/jmblanch
+  page-footer:
+    left: "Blog made with 💜 and [Quarto](https://quarto.org/), by Beatriz Milz. License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)."
+    right:
+      - icon: github
+        href: https://github.com/beatrizmilz/
+      - icon: twitter
+        href: https://twitter.com/BeaMilz
+      - icon: envelope
+        href: mailto:milz.bea@gmail.com
+  twitter-card:
+    creator: "@beamilz"
+    card-style: summary_large_image
 format:
   html:
     theme: cosmo
